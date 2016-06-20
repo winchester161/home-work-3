@@ -2,29 +2,27 @@ body {
 	background: repeat;
   	background-image: url(img/12.jpg);
 }
- table{
+table{
  	font-weight: 1000; 
-    line-height: 1.2;
-    width: 100%;
-    color: white;
+  line-height: 1.2;
+  width: 100%;
+  color: white;
  	background-color: gray;
  	font-family:italic,sans-serif;
- }
- 
- 
-text {
-	color: white;
- 	text-align: center;
- 	font-weight: 1000;
-
 }
-   p{
-   	color: white;
-   	font-weight: bold;
-   	font-weight: 1000;
-   }
-   h1{
-   	color: white;
-   	text-align: center;
-   	font-weight: 1000;
-   }
+
+text {
+  color: white;
+  text-align: center;
+  font-weight: 1000;
+}
+p {
+  color: white;
+  font-weight: bold;
+  font-weight: 1000;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-weight: 1000;
+}
